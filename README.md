@@ -30,7 +30,7 @@ If you don't accept that, **don't flash this build.**
 | Codename | `sapphiren` |
 | ROM | LineageOS 24 (unofficial) |
 | Status | **Untested** |
-| Maintainer | *your name here* |
+| Maintainer | *Me, myself and I* |
 
 > ⚠️ Only the **NFC** model (`sapphiren`) is targeted. Do **not** flash this on other variants (e.g. the non-NFC `sapphire`), or on other Redmi Note 13 models, unless you know exactly what you are doing.
 
