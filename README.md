@@ -126,7 +126,6 @@ Notes:
 
 Since this build is untested, bug reports and test results are welcome. Please include:
 
-- Your exact model and codename
 - The build date / version
 - What you did and what happened
 - A logcat (`adb logcat`) or a `last_kmsg` / `pstore` log if the phone doesn't boot
